@@ -1,0 +1,22 @@
+Hayashi ha online
+
+Resumen: 
+La escuela de karate de hayashi ha shito ryu kai necesita una actualización tecnológica, ya que, los métodos actuales que tienen para cobrar e informar sobre pagos
+y notificar sobre eventos y clases resulta muy lenta y poco practica. 
+Se nos solicito la creación de un proyecto digital que logre lo siguiente:
+
+-La plataforma debe permitir el registro de un alumno con sus datos pertinentes para la toma de clases y si es menor de edad, debe permitir el registro de un apoderado a cargo.
+-La pagina debe permitir ver las condiciones del dojo, los servicios que presta y los horarios para inscribirse disponibles.
+-Debe permitir elegir la forma de pago preferida del usuario.
+-Debe permitir un control anual y mensual del estado de pago de los estudiantes (como van los pagos)
+-Si el estudiante esta atrasado con los pagos debe enviar notificaciones a los correos y también la pagina debe notificar esto también.
+ejemplo: si debo 2 meses que notifique por medio de correo al apoderado la deuda pendiente y en la pagina debería aparecer también al ingresar en mi usuario.
+-También debe permitir el pagar la matricula del estudiante, esta se paga una vez por semestre de manera anual, dependiendo del semestre:
+ejemplo: si entre en febrero el próximo año mi matricula seria para enero, entre en septiembre no pago enero, pero pago el primer mes del segundo semestre ósea en julio
+-Debe generar informe que desglose el detalle de estado de pago.
+
+horario:
+lunes miércoles y viernes
+niños: 18:00/ 19:00 desde los 5 hasta los 9
+adulto: 19:00/ 20:30 10 años en adelante
+
